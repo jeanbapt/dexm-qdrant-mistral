@@ -1,0 +1,7 @@
+
+.env
+
+dexm-ai/
+assertion.log
+openai_usage.log
+azure_openai_usage.log
